@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Docker**
 
-- 👨‍💻 All of my projects are available at [github.com/AUMANSH/](github.com/AUMANSH/)
+- 👨‍💻 All of my projects are available at this profile.
 
 - 💬 Ask me about **Machine Learning**
 
