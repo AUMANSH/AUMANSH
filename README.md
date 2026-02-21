@@ -17,7 +17,6 @@
 
 - 📫 How to reach me **aumanshgupta2004@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13w7kO_V4bs38N77YzLdpPPPmAzXTKZ7l/view](https://drive.google.com/file/d/13w7kO_V4bs38N77YzLdpPPPmAzXTKZ7l/view)
 
 - ⚡ Fun fact **I love to code all day**
 
